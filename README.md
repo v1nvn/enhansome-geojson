@@ -1,4 +1,4 @@
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,651 | 🐛 67 | 📅 2026-01-28
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,879 | 🐛 68 | 📅 2026-01-28
 
 GeoJSON utilities that will make your life easier.
 
@@ -6,7 +6,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,216 | 🐛 286 | 🌐 TypeScript | 📅 2026-02-05: collection of functions for spatial operations and analysi
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,217 | 🐛 282 | 🌐 TypeScript | 📅 2026-02-08: collection of functions for spatial operations and analysi
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 404 | 🐛 19 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 245 | 🐛 17 | 🌐 JavaScript | 📅 2024-11-25: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
@@ -76,7 +76,7 @@ GeoJSON utilities that will make your life easier.
 
 * [topojson](https://github.com/topojson/topojson) ⭐ 4,860 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
 * [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,302 | 🐛 42 | 🌐 JavaScript | 📅 2024-08-15: A fast GeoJSON clustering library for browsers and Node.
-* [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,012 | 🐛 19 | 🌐 JavaScript | 📅 2024-06-26: Slice GeoJSON into vector tiles on the fly in the browser
+* [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,013 | 🐛 19 | 🌐 JavaScript | 📅 2024-06-26: Slice GeoJSON into vector tiles on the fly in the browser
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
   * [fiona](https://github.com/toblerity/fiona) ⭐ 1,222 | 🐛 47 | 🌐 Python | 📅 2025-02-20: nice python interface on top of ogr
 * **OpenStreetMap**
@@ -117,7 +117,7 @@ GeoJSON utilities that will make your life easier.
 
 * [geo-maps](https://github.com/simonepri/geo-maps) ⭐ 1,341 | 🐛 16 | 🌐 JavaScript | 📅 2019-05-29: High Quality GeoJSON maps programmatically generated.
 * [world-atlas](https://github.com/topojson/world-atlas) ⚠️ Archived: customizable simplified versions of natural earth data
-* [us-atlas](https://github.com/topojson/us-atlas) ⭐ 915 | 🐛 9 | 🌐 Shell | 📅 2024-01-02: geojson & topojson for United States features
+* [us-atlas](https://github.com/topojson/us-atlas) ⭐ 916 | 🐛 9 | 🌐 Shell | 📅 2024-01-02: geojson & topojson for United States features
 * [france-geojson](https://github.com/gregoiredavid/france-geojson) ⭐ 802 | 🐛 17 | 📅 2022-12-02: Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 * [historical-basemaps](https://github.com/aourednik/historical-basemaps) ⭐ 665 | 🐛 12 | 🌐 JavaScript | 📅 2026-01-26: Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 * [country-levels](https://github.com/hyperknot/country-levels-export) ⭐ 30 | 🐛 0 | 📅 2020-05-07 Full planet GeoJSON extracts, based on ISO and FIPS codes.
