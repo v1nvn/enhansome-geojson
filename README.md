@@ -1,4 +1,4 @@
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,832 | 🐛 67 | 📅 2026-01-28
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,048 | 🐛 69 | 📅 2026-01-28
 
 GeoJSON utilities that will make your life easier.
 
@@ -6,7 +6,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,226 | 🐛 285 | 🌐 TypeScript | 📅 2026-02-08: collection of functions for spatial operations and analysi
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,228 | 🐛 285 | 🌐 TypeScript | 📅 2026-02-08: collection of functions for spatial operations and analysi
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 404 | 🐛 19 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 245 | 🐛 17 | 🌐 JavaScript | 📅 2024-11-25: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
@@ -22,7 +22,7 @@ GeoJSON utilities that will make your life easier.
 * [geojson-summary](https://github.com/mapbox/geojson-summary) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-24: get a plain-english summary of what's in a geojson file
 * [geojson-normalize](https://github.com/mapbox/geojson-normalize) ⭐ 34 | 🐛 2 | 🌐 JavaScript | 📅 2024-11-22: normalize any geojson object into a geojson featurecollection
 * [geojson-coords](https://github.com/mapbox/geojson-coords) ⭐ 33 | 🐛 2 | 🌐 JavaScript | 📅 2021-09-13: Extract coordinates from GeoJSON
-* [de9im](https://github.com/dpmcmlxxvi/de9im) ⭐ 31 | 🐛 3 | 🌐 JavaScript | 📅 2026-02-12: collection of fast functions for spatial javascript operations
+* [de9im](https://github.com/dpmcmlxxvi/de9im) ⭐ 31 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-12: collection of fast functions for spatial javascript operations
 * [geojsontools](https://github.com/micolous/geojsontools) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2016-11-06: Python tools for manipulating GeoJSON files
 * [geojson-mesh](https://github.com/andrewharvey/geojson-mesh) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2019-03-20: extract shared borders of Polygons in a GeoJSON
 * [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-28: Converts polygon winding order between rfc7946 and [d3 compatible](https://github.com/d3/d3-geo#d3-geo) ⭐ 1,085 | 🐛 34 | 🌐 JavaScript | 📅 2024-06-28 conventions.
@@ -37,7 +37,7 @@ GeoJSON utilities that will make your life easier.
 ### editors & viewers
 
 * [gjv](https://github.com/anandthakker/gjv) ⭐ 76 | 🐛 5 | 🌐 JavaScript | 📅 2017-11-02: electron app enables viewing GeoJSON locally and hack on it with turf; works offline
-* [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) ⭐ 32 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-11: An interactive sandbox to tune vector tiles
+* [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) ⭐ 32 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-12: An interactive sandbox to tune vector tiles
 * [geojson2image](https://github.com/brycejohnston/geojson2image) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2018-09-25: library for generating images from GeoJSON
 * [play.placemark.io](https://play.placemark.io/): web-based editor, supports many filetype imports & exports, operations
 * [geojson.io](http://geojson.io/): web-based editor, supports many filetype imports & exports, operations, sharing via GitHub
@@ -74,7 +74,7 @@ GeoJSON utilities that will make your life easier.
 
 ### conversion
 
-* [topojson](https://github.com/topojson/topojson) ⭐ 4,861 | 🐛 17 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
+* [topojson](https://github.com/topojson/topojson) ⭐ 4,862 | 🐛 17 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
 * [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,303 | 🐛 42 | 🌐 JavaScript | 📅 2024-08-15: A fast GeoJSON clustering library for browsers and Node.
 * [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,013 | 🐛 19 | 🌐 JavaScript | 📅 2024-06-26: Slice GeoJSON into vector tiles on the fly in the browser
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
@@ -138,7 +138,7 @@ GeoJSON utilities that will make your life easier.
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 984 | 🐛 31 | 🌐 Python | 📅 2026-01-05: serialize geojson to/from python datatypes
-* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 438 | 🐛 82 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,340 | 🐛 332 | 🌐 Java | 📅 2026-02-01)
+* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 82 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,343 | 🐛 332 | 🌐 Java | 📅 2026-02-01)
 * [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 326 | 🐛 28 | 🌐 Rust | 📅 2026-01-31: serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) ⭐ 273 | 🐛 25 | 🌐 Java | 📅 2025-12-11: serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson) ⭐ 193 | 🐛 12 | 🌐 Ruby | 📅 2024-10-10: serialize geojson to/from ruby RGeo datatypes
@@ -149,7 +149,7 @@ GeoJSON utilities that will make your life easier.
 * [RFC 7946 – The GeoJSON Format](https://tools.ietf.org/html/rfc7946): the current GeoJSON standard by IETF
 * [GeoJSON.org](http://geojson.org/): the first specification, defining all the rules for GeoJSON structures
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
-* [geojson-invalid-geometry](https://github.com/chrieke/geojson-invalid-geometry) ⭐ 46 | 🐛 1 | 📅 2024-12-31: List of GeoJSON invalid geometry issues with example files.
+* [geojson-invalid-geometry](https://github.com/chrieke/geojson-invalid-geometry) ⭐ 47 | 🐛 1 | 📅 2024-12-31: List of GeoJSON invalid geometry issues with example files.
 
 ## License
 
