@@ -1,4 +1,4 @@
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,720 | 🐛 71 | 📅 2026-01-28
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,919 | 🐛 71 | 📅 2026-01-28
 
 GeoJSON utilities that will make your life easier.
 
@@ -6,7 +6,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,242 | 🐛 285 | 🌐 TypeScript | 📅 2026-02-13: collection of functions for spatial operations and analysi
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,243 | 🐛 286 | 🌐 TypeScript | 📅 2026-02-13: collection of functions for spatial operations and analysi
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 404 | 🐛 19 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 245 | 🐛 17 | 🌐 JavaScript | 📅 2024-11-25: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
@@ -37,7 +37,7 @@ GeoJSON utilities that will make your life easier.
 ### editors & viewers
 
 * [gjv](https://github.com/anandthakker/gjv) ⭐ 76 | 🐛 5 | 🌐 JavaScript | 📅 2017-11-02: electron app enables viewing GeoJSON locally and hack on it with turf; works offline
-* [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) ⭐ 33 | 🐛 0 | 🌐 Vue | 📅 2026-02-15: An interactive sandbox to tune vector tiles
+* [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) ⭐ 33 | 🐛 0 | 🌐 Vue | 📅 2026-02-16: An interactive sandbox to tune vector tiles
 * [geojson2image](https://github.com/brycejohnston/geojson2image) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2018-09-25: library for generating images from GeoJSON
 * [play.placemark.io](https://play.placemark.io/): web-based editor, supports many filetype imports & exports, operations
 * [geojson.io](http://geojson.io/): web-based editor, supports many filetype imports & exports, operations, sharing via GitHub
@@ -138,7 +138,7 @@ GeoJSON utilities that will make your life easier.
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 984 | 🐛 31 | 🌐 Python | 📅 2026-01-05: serialize geojson to/from python datatypes
-* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 82 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,347 | 🐛 329 | 🌐 Java | 📅 2026-02-16)
+* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 82 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,348 | 🐛 329 | 🌐 Java | 📅 2026-02-16)
 * [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 326 | 🐛 28 | 🌐 Rust | 📅 2026-01-31: serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) ⭐ 273 | 🐛 25 | 🌐 Java | 📅 2025-12-11: serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson) ⭐ 193 | 🐛 12 | 🌐 Ruby | 📅 2024-10-10: serialize geojson to/from ruby RGeo datatypes
