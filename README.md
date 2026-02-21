@@ -1,4 +1,4 @@
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,706 | 🐛 70 | 📅 2026-01-28
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,982 | 🐛 70 | 📅 2026-01-28
 
 GeoJSON utilities that will make your life easier.
 
@@ -6,7 +6,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,244 | 🐛 288 | 🌐 TypeScript | 📅 2026-02-18: collection of functions for spatial operations and analysi
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,246 | 🐛 288 | 🌐 TypeScript | 📅 2026-02-18: collection of functions for spatial operations and analysi
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 404 | 🐛 19 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 245 | 🐛 17 | 🌐 JavaScript | 📅 2024-11-25: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
@@ -56,8 +56,8 @@ GeoJSON utilities that will make your life easier.
 
 * [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) ⭐ 276 | 🐛 6 | 🌐 Python | 📅 2025-10-08: [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
 * [geojsonhint](https://github.com/mapbox/geojsonhint) ⚠️ Archived: find errors in your geojson files
+* [antimeridian](https://github.com/gadomski/antimeridian) ⭐ 105 | 🐛 3 | 🌐 Python | 📅 2025-12-15: Fix GeoJSON polygons that cross the antimeridian (Python package)
 * [gjf](https://github.com/yazeed44/gjf) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2021-06-22: A tool to fix invalid GeoJSON objects
-* [antimeridian](https://github.com/gadomski/antimeridian) ⭐ 104 | 🐛 3 | 🌐 Python | 📅 2025-12-15: Fix GeoJSON polygons that cross the antimeridian (Python package)
 * [check-geojson](https://github.com/placemark/check-geojson) ⭐ 84 | 🐛 6 | 🌐 TypeScript | 📅 2025-02-18: alternative to geojsonhint
 * [Jest-GeoJSON](https://github.com/M-Scott-Lassiter/jest-geojson) ⭐ 9 | 🐛 7 | 🌐 JavaScript | 📅 2022-06-12: an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 * [geojson-validation](https://www.npmjs.com/package/geojson-validation): many validation functions, plus simple gjv command line tool
@@ -138,8 +138,8 @@ GeoJSON utilities that will make your life easier.
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 984 | 🐛 31 | 🌐 Python | 📅 2026-01-05: serialize geojson to/from python datatypes
-* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 82 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,357 | 🐛 329 | 🌐 Java | 📅 2026-02-16)
-* [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 326 | 🐛 28 | 🌐 Rust | 📅 2026-02-18: serialize geojson to/from rust datatypes
+* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 82 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,356 | 🐛 330 | 🌐 Java | 📅 2026-02-16)
+* [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 326 | 🐛 28 | 🌐 Rust | 📅 2026-02-20: serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) ⭐ 273 | 🐛 25 | 🌐 Java | 📅 2025-12-11: serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson) ⭐ 193 | 🐛 12 | 🌐 Ruby | 📅 2024-10-10: serialize geojson to/from ruby RGeo datatypes
 * [geojson-serializer](https://github.com/ancore/geojson-serializer) ⭐ 6 | 🐛 2 | 🌐 Java | 📅 2023-06-14: serialize Java with annotations as GeoJSON
@@ -149,7 +149,7 @@ GeoJSON utilities that will make your life easier.
 * [RFC 7946 – The GeoJSON Format](https://tools.ietf.org/html/rfc7946): the current GeoJSON standard by IETF
 * [GeoJSON.org](http://geojson.org/): the first specification, defining all the rules for GeoJSON structures
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
-* [geojson-invalid-geometry](https://github.com/chrieke/geojson-invalid-geometry) ⭐ 47 | 🐛 1 | 📅 2024-12-31: List of GeoJSON invalid geometry issues with example files.
+* [geojson-invalid-geometry](https://github.com/chrieke/geojson-invalid-geometry) ⭐ 48 | 🐛 1 | 📅 2024-12-31: List of GeoJSON invalid geometry issues with example files.
 
 ## License
 
