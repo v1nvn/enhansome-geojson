@@ -1,4 +1,4 @@
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 443,830 | 🐛 75 | 📅 2026-03-04
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 444,206 | 🐛 75 | 📅 2026-03-09
 
 GeoJSON utilities that will make your life easier.
 
@@ -6,7 +6,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,278 | 🐛 294 | 🌐 TypeScript | 📅 2026-03-05: collection of functions for spatial operations and analysi
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,278 | 🐛 293 | 🌐 TypeScript | 📅 2026-03-05: collection of functions for spatial operations and analysi
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 404 | 🐛 19 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 245 | 🐛 17 | 🌐 JavaScript | 📅 2024-11-25: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
@@ -25,7 +25,7 @@ GeoJSON utilities that will make your life easier.
 * [de9im](https://github.com/dpmcmlxxvi/de9im) ⭐ 31 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-12: collection of fast functions for spatial javascript operations
 * [geojsontools](https://github.com/micolous/geojsontools) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2016-11-06: Python tools for manipulating GeoJSON files
 * [geojson-mesh](https://github.com/andrewharvey/geojson-mesh) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2019-03-20: extract shared borders of Polygons in a GeoJSON
-* [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-28: Converts polygon winding order between rfc7946 and [d3 compatible](https://github.com/d3/d3-geo#d3-geo) ⭐ 1,087 | 🐛 34 | 🌐 JavaScript | 📅 2024-06-28 conventions.
+* [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-28: Converts polygon winding order between rfc7946 and [d3 compatible](https://github.com/d3/d3-geo#d3-geo) ⭐ 1,088 | 🐛 34 | 🌐 JavaScript | 📅 2024-06-28 conventions.
 * [geojson-indoor-tools](https://github.com/armanjr/geojson-indoor-tools) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2023-01-24: Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
 * [geojson-multiply](https://github.com/haoliangyu/geojson-multiply) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2016-05-06:  merge normal geojson features into one multi geometry type feature
 * [geo\_assigner](https://github.com/stadt-karlsruhe/geo_assigner) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2017-09-15: Copy a property to all intersecting features
@@ -138,7 +138,7 @@ GeoJSON utilities that will make your life easier.
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 984 | 🐛 31 | 🌐 Python | 📅 2026-01-05: serialize geojson to/from python datatypes
-* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 82 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,335 | 🐛 331 | 🌐 Java | 📅 2026-03-06)
+* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 82 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,338 | 🐛 331 | 🌐 Java | 📅 2026-03-09)
 * [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 327 | 🐛 25 | 🌐 Rust | 📅 2026-03-03: serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) ⭐ 273 | 🐛 25 | 🌐 Java | 📅 2025-12-11: serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson) ⭐ 193 | 🐛 12 | 🌐 Ruby | 📅 2024-10-10: serialize geojson to/from ruby RGeo datatypes
