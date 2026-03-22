@@ -1,4 +1,4 @@
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 447,390 | 🐛 88 | 📅 2026-03-09
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 447,703 | 🐛 86 | 📅 2026-03-09
 
 GeoJSON utilities that will make your life easier.
 
@@ -6,7 +6,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,291 | 🐛 292 | 🌐 TypeScript | 📅 2026-03-16: collection of functions for spatial operations and analysi
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,293 | 🐛 292 | 🌐 TypeScript | 📅 2026-03-16: collection of functions for spatial operations and analysi
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 404 | 🐛 19 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 245 | 🐛 17 | 🌐 JavaScript | 📅 2024-11-25: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
@@ -89,7 +89,7 @@ GeoJSON utilities that will make your life easier.
   * [osm2geojson](https://github.com/rclark/osm2geojson) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2017-06-28: converts OSM XML to GeoJSON
   * [geojson2osm](https://github.com/Rub21/geojson2osm) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2019-11-11: convert GeoJSON to OSM XML
   * [geojson2osm-es6](https://github.com/DenisCarriere/geojson2osm-es6/) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2016-11-21: convert GeoJSON to OSM XML
-* [togeojson](https://github.com/tmcw/togeojson) ⭐ 438 | 🐛 13 | 🌐 TypeScript | 📅 2025-05-31: convert GPX & KML to geojson
+* [togeojson](https://github.com/tmcw/togeojson) ⭐ 439 | 🐛 13 | 🌐 TypeScript | 📅 2025-05-31: convert GPX & KML to geojson
 * **CSV**
   * [csv2geojson](https://github.com/mapbox/csv2geojson) ⭐ 373 | 🐛 17 | 🌐 JavaScript | 📅 2025-10-07: convert CSV to geojson
   * [geojson2dsv](https://github.com/tmcw/geojson2dsv) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2017-05-03: convert geojson to CSV and TSV
@@ -101,7 +101,7 @@ GeoJSON utilities that will make your life easier.
   * [geojson-to-svg-cli](https://github.com/derhuerst/geojson-to-svg-cli) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-01: Command line tool to convert GeoJSON to SVG.
   * [geojson-svgify](https://github.com/juliuste/geojson-svgify) ⭐ 18 | 🐛 4 | 🌐 JavaScript | 📅 2022-10-11: Convert GeoJSON geometry paths to SVG polyline elements.
 * [topojson for Python](https://github.com/mattijn/topojson) ⭐ 197 | 🐛 5 | 🌐 Python | 📅 2025-07-22: Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
-* [tokml](https://github.com/mapbox/tokml) ⭐ 192 | 🐛 10 | 🌐 JavaScript | 📅 2018-05-06: convert GeoJSON to KML
+* [tokml](https://github.com/mapbox/tokml) ⭐ 193 | 🐛 10 | 🌐 JavaScript | 📅 2018-05-06: convert GeoJSON to KML
 * [geomet](https://github.com/geomet/geomet) ⭐ 176 | 🐛 7 | 🌐 Python | 📅 2025-06-07: Pure Python conversion library for common geospatial data formats
 * [vt-geojson](https://github.com/developmentseed/vt-geojson) ⭐ 60 | 🐛 3 | 🌐 JavaScript | 📅 2016-01-27: Extract GeoJSON from Mapbox vector tiles
 * [betterknown](https://github.com/placemark/betterknown) ⭐ 55 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-17: convert WKT to GeoJSON (successor to wellknown)
