@@ -1,4 +1,4 @@
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 460,012 | 🐛 67 | 📅 2026-04-19
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 460,322 | 🐛 68 | 📅 2026-04-19
 
 GeoJSON utilities that will make your life easier.
 
@@ -138,8 +138,8 @@ GeoJSON utilities that will make your life easier.
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 985 | 🐛 32 | 🌐 Python | 📅 2026-01-05: serialize geojson to/from python datatypes
-* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 83 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,213 | 🐛 337 | 🌐 Java | 📅 2026-04-23)
-* [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 336 | 🐛 22 | 🌐 Rust | 📅 2026-04-28: serialize geojson to/from rust datatypes
+* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 83 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,214 | 🐛 337 | 🌐 Java | 📅 2026-04-29)
+* [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 336 | 🐛 22 | 🌐 Rust | 📅 2026-04-29: serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) ⭐ 276 | 🐛 26 | 🌐 Java | 📅 2025-12-11: serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson) ⭐ 193 | 🐛 12 | 🌐 Ruby | 📅 2024-10-10: serialize geojson to/from ruby RGeo datatypes
 * [geojson-serializer](https://github.com/ancore/geojson-serializer) ⭐ 6 | 🐛 2 | 🌐 Java | 📅 2023-06-14: serialize Java with annotations as GeoJSON
