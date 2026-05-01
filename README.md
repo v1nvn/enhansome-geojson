@@ -1,4 +1,4 @@
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 460,322 | 🐛 68 | 📅 2026-04-19
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 460,724 | 🐛 68 | 📅 2026-04-19
 
 GeoJSON utilities that will make your life easier.
 
@@ -6,7 +6,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,350 | 🐛 300 | 🌐 TypeScript | 📅 2026-04-28: collection of functions for spatial operations and analysi
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,354 | 🐛 300 | 🌐 TypeScript | 📅 2026-04-28: collection of functions for spatial operations and analysi
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 404 | 🐛 19 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 245 | 🐛 17 | 🌐 JavaScript | 📅 2024-11-25: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
@@ -14,7 +14,7 @@ GeoJSON utilities that will make your life easier.
 * [CoGran](https://github.com/berlinermorgenpost/cogran) ⭐ 113 | 🐛 7 | 🌐 JavaScript | 📅 2019-04-04: Resample statistics from one set of GeoJSON polygons to another
 * [geojson-polygon-labels](https://github.com/andrewharvey/geojson-polygon-labels) ⭐ 89 | 🐛 4 | 🌐 JavaScript | 📅 2024-08-26: generate point labels from GeoJSON polygons
 * [winnow](https://github.com/dmfenton/winnow) ⭐ 88 | 🐛 15 | 🌐 JavaScript | 📅 2023-08-13: run sql queries against geojson with javascript
-* [turf\_dart](https://github.com/dartclub/turf_dart) ⭐ 82 | 🐛 51 | 🌐 Dart | 📅 2026-04-28: a turf.js port for Dart and Flutter
+* [turf\_dart](https://github.com/dartclub/turf_dart) ⭐ 82 | 🐛 47 | 🌐 Dart | 📅 2026-04-30: a turf.js port for Dart and Flutter
 * [geojson-shave](https://github.com/ben-n93/geojson-shave) ⭐ 76 | 🐛 0 | 🌐 Python | 📅 2025-05-04: a Python command-line tool for reducing the size of GeoJSON files.
 * [geojson-random](https://github.com/tmcw/geojson-random) ⭐ 75 | 🐛 6 | 🌐 JavaScript | 📅 2023-02-27: generate random geojson points, lines, and polygons
 * [geojson-flatten](https://github.com/tmcw/geojson-flatten) ⭐ 54 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-07: flatten multi geometries into normal geometries
@@ -74,7 +74,7 @@ GeoJSON utilities that will make your life easier.
 
 ### conversion
 
-* [topojson](https://github.com/topojson/topojson) ⭐ 4,878 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
+* [topojson](https://github.com/topojson/topojson) ⭐ 4,879 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
 * [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,319 | 🐛 42 | 🌐 JavaScript | 📅 2024-08-15: A fast GeoJSON clustering library for browsers and Node.
 * [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,029 | 🐛 20 | 🌐 JavaScript | 📅 2024-06-26: Slice GeoJSON into vector tiles on the fly in the browser
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
@@ -138,8 +138,8 @@ GeoJSON utilities that will make your life easier.
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 985 | 🐛 32 | 🌐 Python | 📅 2026-01-05: serialize geojson to/from python datatypes
-* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 83 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,214 | 🐛 337 | 🌐 Java | 📅 2026-04-29)
-* [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 336 | 🐛 22 | 🌐 Rust | 📅 2026-04-29: serialize geojson to/from rust datatypes
+* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 83 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,215 | 🐛 339 | 🌐 Java | 📅 2026-05-01)
+* [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 337 | 🐛 22 | 🌐 Rust | 📅 2026-04-29: serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) ⭐ 276 | 🐛 26 | 🌐 Java | 📅 2025-12-11: serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson) ⭐ 193 | 🐛 12 | 🌐 Ruby | 📅 2024-10-10: serialize geojson to/from ruby RGeo datatypes
 * [geojson-serializer](https://github.com/ancore/geojson-serializer) ⭐ 6 | 🐛 2 | 🌐 Java | 📅 2023-06-14: serialize Java with annotations as GeoJSON
