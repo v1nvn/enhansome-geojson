@@ -1,4 +1,4 @@
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 463,443 | 🐛 70 | 📅 2026-05-05
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 463,814 | 🐛 71 | 📅 2026-05-05
 
 GeoJSON utilities that will make your life easier.
 
@@ -75,13 +75,13 @@ GeoJSON utilities that will make your life easier.
 ### conversion
 
 * [topojson](https://github.com/topojson/topojson) ⭐ 4,880 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
-* [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,321 | 🐛 42 | 🌐 JavaScript | 📅 2024-08-15: A fast GeoJSON clustering library for browsers and Node.
+* [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,322 | 🐛 42 | 🌐 JavaScript | 📅 2024-08-15: A fast GeoJSON clustering library for browsers and Node.
 * [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,030 | 🐛 20 | 🌐 JavaScript | 📅 2024-06-26: Slice GeoJSON into vector tiles on the fly in the browser
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
   * [fiona](https://github.com/toblerity/fiona) ⭐ 1,237 | 🐛 49 | 🌐 Python | 📅 2025-02-20: nice python interface on top of ogr
 * **OpenStreetMap**
-  * [osmtogeojson](https://github.com/tyrasd/osmtogeojson) ⭐ 744 | 🐛 59 | 🌐 JavaScript | 📅 2026-04-23: convert OpenStreetMap data to GeoJSON
-  * [query-overpass](https://github.com/perliedman/query-overpass) ⭐ 158 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-28 CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson](https://github.com/tyrasd/osmtogeojson) ⭐ 744 | 🐛 59 | 🌐 JavaScript | 📅 2026-04-23
+  * [osmtogeojson](https://github.com/tyrasd/osmtogeojson) ⭐ 745 | 🐛 59 | 🌐 JavaScript | 📅 2026-04-23: convert OpenStreetMap data to GeoJSON
+  * [query-overpass](https://github.com/perliedman/query-overpass) ⭐ 158 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-28 CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson](https://github.com/tyrasd/osmtogeojson) ⭐ 745 | 🐛 59 | 🌐 JavaScript | 📅 2026-04-23
   * [osm2geojson](https://github.com/aspectumapp/osm2geojson) ⭐ 115 | 🐛 2 | 🌐 Python | 📅 2026-03-04: (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
   * [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson) ⭐ 91 | 🐛 6 | 🌐 JavaScript | 📅 2016-07-14: convert GeoJSON to OSM XML and OSM XML to GeoJSON
   * [minjur](https://github.com/mapbox/minjur) ⚠️ Archived: converts OpenStreetMap data to GeoJSON faster than anything else
@@ -138,7 +138,7 @@ GeoJSON utilities that will make your life easier.
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 985 | 🐛 32 | 🌐 Python | 📅 2026-01-05: serialize geojson to/from python datatypes
-* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 83 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,195 | 🐛 338 | 🌐 Java | 📅 2026-05-06)
+* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 83 | 🌐 Java | 📅 2026-02-06: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,196 | 🐛 338 | 🌐 Java | 📅 2026-05-06)
 * [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 337 | 🐛 22 | 🌐 Rust | 📅 2026-04-29: serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) ⭐ 276 | 🐛 26 | 🌐 Java | 📅 2025-12-11: serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson) ⭐ 193 | 🐛 12 | 🌐 Ruby | 📅 2024-10-10: serialize geojson to/from ruby RGeo datatypes
