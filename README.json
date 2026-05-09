@@ -505,7 +505,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-27T20:39:13Z",
+            "last_commit": "2026-05-08T12:20:07Z",
             "owner": "gadomski",
             "repo": "antimeridian",
             "stars": 107
@@ -699,7 +699,7 @@
                 "last_commit": "2025-02-20T23:53:44Z",
                 "owner": "Toblerity",
                 "repo": "Fiona",
-                "stars": 1237
+                "stars": 1238
               }
             }
           ],
@@ -711,7 +711,7 @@
             "last_commit": "2025-02-20T23:53:44Z",
             "owner": "Toblerity",
             "repo": "Fiona",
-            "stars": 1237
+            "stars": 1238
           }
         },
         {
@@ -755,7 +755,7 @@
             "last_commit": "2024-09-20T23:03:27Z",
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4880
+            "stars": 4894
           }
         },
         {
@@ -1240,7 +1240,7 @@
             "last_commit": "2026-01-26T18:39:42Z",
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 711
+            "stars": 713
           }
         },
         {
@@ -1290,7 +1290,7 @@
             "last_commit": "2026-01-05T17:32:06Z",
             "owner": "jazzband",
             "repo": "geojson",
-            "stars": 985
+            "stars": 986
           }
         },
         {
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:51:25.566Z",
+    "last_updated": "2026-05-09T05:19:01.227Z",
     "original_repository": "tmcw/awesome-geojson",
     "source_repository": "v1nvn/enhansome-geojson",
     "source_repository_description": null,
