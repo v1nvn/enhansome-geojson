@@ -207,10 +207,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-02T18:23:05Z",
+            "last_commit": "2026-05-09T13:58:13Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10359
+            "stars": 10363
           }
         },
         {
@@ -755,7 +755,7 @@
             "last_commit": "2024-09-20T23:03:27Z",
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4894
+            "stars": 4898
           }
         },
         {
@@ -924,7 +924,7 @@
                 "last_commit": "2026-04-23T02:49:39Z",
                 "owner": "tyrasd",
                 "repo": "osmtogeojson",
-                "stars": 745
+                "stars": 746
               }
             },
             {
@@ -1040,7 +1040,7 @@
             "last_commit": "2026-04-23T02:49:39Z",
             "owner": "tyrasd",
             "repo": "osmtogeojson",
-            "stars": 745
+            "stars": 746
           }
         },
         {
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:19:01.227Z",
+    "last_updated": "2026-05-10T05:34:15.566Z",
     "original_repository": "tmcw/awesome-geojson",
     "source_repository": "v1nvn/enhansome-geojson",
     "source_repository_description": null,
