@@ -207,7 +207,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T13:58:13Z",
+            "last_commit": "2026-05-11T15:09:57Z",
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10363
@@ -220,10 +220,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-05-10T12:11:32Z",
+            "last_commit": "2026-05-12T05:29:32Z",
             "owner": "dartclub",
             "repo": "turf_dart",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -505,7 +505,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-08T12:20:07Z",
+            "last_commit": "2026-05-11T22:08:16Z",
             "owner": "gadomski",
             "repo": "antimeridian",
             "stars": 107
@@ -699,7 +699,7 @@
                 "last_commit": "2025-02-20T23:53:44Z",
                 "owner": "Toblerity",
                 "repo": "Fiona",
-                "stars": 1238
+                "stars": 1239
               }
             }
           ],
@@ -711,7 +711,7 @@
             "last_commit": "2025-02-20T23:53:44Z",
             "owner": "Toblerity",
             "repo": "Fiona",
-            "stars": 1238
+            "stars": 1239
           }
         },
         {
@@ -848,7 +848,7 @@
                 "last_commit": "2025-08-02T04:36:10Z",
                 "owner": "gagan-bansal",
                 "repo": "geojson2svg",
-                "stars": 249
+                "stars": 250
               }
             },
             {
@@ -899,7 +899,7 @@
             "last_commit": "2025-08-02T04:36:10Z",
             "owner": "gagan-bansal",
             "repo": "geojson2svg",
-            "stars": 249
+            "stars": 250
           }
         },
         {
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:55:27.113Z",
+    "last_updated": "2026-05-12T05:35:33.114Z",
     "original_repository": "tmcw/awesome-geojson",
     "source_repository": "v1nvn/enhansome-geojson",
     "source_repository_description": null,
