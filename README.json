@@ -223,7 +223,7 @@
             "last_commit": "2026-05-12T06:28:43Z",
             "owner": "dartclub",
             "repo": "turf_dart",
-            "stars": 83
+            "stars": 84
           }
         },
         {
@@ -655,10 +655,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2024-06-26T10:23:59Z",
+            "last_commit": "2026-05-13T21:06:21Z",
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2030
+            "stars": 2031
           }
         },
         {
@@ -755,7 +755,7 @@
             "last_commit": "2024-09-20T23:03:27Z",
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4900
+            "stars": 4901
           }
         },
         {
@@ -833,7 +833,7 @@
             "last_commit": "2024-08-15T05:07:57Z",
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2325
+            "stars": 2324
           }
         },
         {
@@ -1108,7 +1108,7 @@
             "last_commit": "2019-05-29T16:53:03Z",
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1345
+            "stars": 1344
           }
         },
         {
@@ -1316,7 +1316,7 @@
             "last_commit": "2026-04-29T23:32:48Z",
             "owner": "georust",
             "repo": "geojson",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -1342,7 +1342,7 @@
             "last_commit": "2026-02-06T07:38:43Z",
             "owner": "mapbox",
             "repo": "mapbox-java",
-            "stars": 439
+            "stars": 440
           }
         },
         {
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:44:57.315Z",
+    "last_updated": "2026-05-14T05:44:11.437Z",
     "original_repository": "tmcw/awesome-geojson",
     "source_repository": "v1nvn/enhansome-geojson",
     "source_repository_description": null,
