@@ -207,10 +207,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-11T15:09:57Z",
+            "last_commit": "2026-05-14T14:01:18Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10364
+            "stars": 10363
           }
         },
         {
@@ -655,7 +655,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-13T21:06:21Z",
+            "last_commit": "2026-05-14T21:41:41Z",
             "owner": "mapbox",
             "repo": "geojson-vt",
             "stars": 2031
@@ -699,7 +699,7 @@
                 "last_commit": "2025-02-20T23:53:44Z",
                 "owner": "Toblerity",
                 "repo": "Fiona",
-                "stars": 1239
+                "stars": 1240
               }
             }
           ],
@@ -711,7 +711,7 @@
             "last_commit": "2025-02-20T23:53:44Z",
             "owner": "Toblerity",
             "repo": "Fiona",
-            "stars": 1239
+            "stars": 1240
           }
         },
         {
@@ -755,7 +755,7 @@
             "last_commit": "2024-09-20T23:03:27Z",
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4901
+            "stars": 4902
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-04-13T23:11:02Z",
             "owner": "mapbox",
             "repo": "wellknown",
-            "stars": 279
+            "stars": 278
           }
         },
         {
@@ -1134,7 +1134,7 @@
             "last_commit": "2024-01-02T05:17:20Z",
             "owner": "topojson",
             "repo": "us-atlas",
-            "stars": 919
+            "stars": 920
           }
         },
         {
@@ -1240,7 +1240,7 @@
             "last_commit": "2026-01-26T18:39:42Z",
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 714
+            "stars": 715
           }
         },
         {
@@ -1287,7 +1287,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-01-05T17:32:06Z",
+            "last_commit": "2026-05-14T23:14:21Z",
             "owner": "jazzband",
             "repo": "geojson",
             "stars": 986
@@ -1316,7 +1316,7 @@
             "last_commit": "2026-04-29T23:32:48Z",
             "owner": "georust",
             "repo": "geojson",
-            "stars": 338
+            "stars": 339
           }
         },
         {
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:44:11.437Z",
+    "last_updated": "2026-05-15T05:52:02.079Z",
     "original_repository": "tmcw/awesome-geojson",
     "source_repository": "v1nvn/enhansome-geojson",
     "source_repository_description": null,
