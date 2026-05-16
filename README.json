@@ -210,7 +210,7 @@
             "last_commit": "2026-05-14T14:01:18Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10363
+            "stars": 10361
           }
         },
         {
@@ -464,7 +464,7 @@
             "last_commit": "2025-02-18T14:08:30Z",
             "owner": "placemark",
             "repo": "check-geojson",
-            "stars": 84
+            "stars": 83
           }
         },
         {
@@ -508,7 +508,7 @@
             "last_commit": "2026-05-12T13:27:59Z",
             "owner": "gadomski",
             "repo": "antimeridian",
-            "stars": 107
+            "stars": 108
           }
         },
         {
@@ -655,7 +655,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-14T21:41:41Z",
+            "last_commit": "2026-05-15T20:57:17Z",
             "owner": "mapbox",
             "repo": "geojson-vt",
             "stars": 2031
@@ -1266,7 +1266,7 @@
             "last_commit": "2022-12-02T14:25:58Z",
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 815
+            "stars": 816
           }
         },
         {
@@ -1316,7 +1316,7 @@
             "last_commit": "2026-04-29T23:32:48Z",
             "owner": "georust",
             "repo": "geojson",
-            "stars": 339
+            "stars": 340
           }
         },
         {
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:52:02.079Z",
+    "last_updated": "2026-05-16T05:24:09.513Z",
     "original_repository": "tmcw/awesome-geojson",
     "source_repository": "v1nvn/enhansome-geojson",
     "source_repository_description": null,
