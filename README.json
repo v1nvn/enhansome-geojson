@@ -210,7 +210,7 @@
             "last_commit": "2026-05-14T14:01:18Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10361
+            "stars": 10360
           }
         },
         {
@@ -655,7 +655,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-15T20:57:17Z",
+            "last_commit": "2026-05-16T18:35:15Z",
             "owner": "mapbox",
             "repo": "geojson-vt",
             "stars": 2031
@@ -1240,7 +1240,7 @@
             "last_commit": "2026-01-26T18:39:42Z",
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 715
+            "stars": 716
           }
         },
         {
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:24:09.513Z",
+    "last_updated": "2026-05-17T05:45:16.094Z",
     "original_repository": "tmcw/awesome-geojson",
     "source_repository": "v1nvn/enhansome-geojson",
     "source_repository_description": null,
